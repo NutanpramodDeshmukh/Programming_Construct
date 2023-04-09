@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\twointeger\bin\Debug\twointeger.exe.config
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\twointeger\bin\Debug\twointeger.exe
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\twointeger\bin\Debug\twointeger.pdb
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\twointeger\obj\Debug\twointeger.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\twointeger\obj\Debug\twointeger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\twointeger\obj\Debug\twointeger.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\twointeger\obj\Debug\twointeger.exe
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\twointeger\obj\Debug\twointeger.pdb

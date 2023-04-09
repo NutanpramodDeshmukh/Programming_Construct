@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\Weekday\bin\Debug\Weekday.exe.config
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\Weekday\bin\Debug\Weekday.exe
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\Weekday\bin\Debug\Weekday.pdb
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\Weekday\obj\Debug\Weekday.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\Weekday\obj\Debug\Weekday.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\Weekday\obj\Debug\Weekday.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\Weekday\obj\Debug\Weekday.exe
+C:\Users\Uday\OneDrive\Desktop\Programming Constructs\Weekday\obj\Debug\Weekday.pdb
